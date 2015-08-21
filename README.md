@@ -1,3 +1,6 @@
+
+See https://github.com/pythonsd/PythonSlidesUcsd for current version
+
 # intro-to-python-ucsd
 slide deck for intro to python tutorial presented at ucsd (Natan)
 
